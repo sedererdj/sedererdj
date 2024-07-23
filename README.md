@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **sedererdj/sedererdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Donate me money!
+Money  money  money  money!!
+
+Monero wallet address:
+83shE6EeykgLWnfGX4NDRvHN1fbvvoY2dTVENQ7BPMVgjG5fMsT18fbfWhowXaBg3hjHpum7uuodtjmPQ3SMU9b3MuHe216
